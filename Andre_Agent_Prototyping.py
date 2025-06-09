@@ -15,7 +15,7 @@ from langchain.agents import initialize_agent, Tool
 from langchain.memory import ConversationBufferMemory
 
 # 🔐 Credentials
-DATABRICKS_TOKEN = "dapi84e0793bce8667c46e5a8661e9386de2"
+DATABRICKS_TOKEN = ""
 DATABRICKS_HOST = "dbc-32826a1f-a515.cloud.databricks.com"
 WAREHOUSE_PATH = "/sql/1.0/warehouses/031f2b46b9c894c1"
 
